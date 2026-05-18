@@ -20,6 +20,10 @@
 
 ---
 
+> **🖥️ Desktop Application:** This is a local Java Swing application — not a web app. It requires **Java 17+** and **MySQL** (via XAMPP) running locally. See the [Getting Started](#-getting-started) section for full setup instructions.
+
+---
+
 ## ✨ Features
 
 - 📖 **Book Management** — Full CRUD (Create, Read, Update, Delete) operations
